@@ -1,7 +1,7 @@
 { "comment": "default public file",
 
-"image": {
-  "name": "image.png",
+"Minas": {
+  "name": "minas.png",
   "x": -4096,  "y": 2894,
   "width": 525, "height": 202
 }
