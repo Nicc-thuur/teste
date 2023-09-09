@@ -1,6 +1,6 @@
 { "comment": "default public file",
 
-"!Thur-1": {
+"image": {
   "name": "!Thur-1.png",
   "x": -4096,  "y": 2894,
   "width": 525, "height": 202
