@@ -12,4 +12,10 @@
  "width": 235,  "height": 154
 }
 
+,"Cuba": {
+ "name": "cubache.png",
+ "x":3595,  "y":-2413,
+ "width": 202,  "height": 122
+}
+
 }
